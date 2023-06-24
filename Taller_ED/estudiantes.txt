@@ -1,0 +1,30 @@
+ Juan Pérez-12345-matematicas-2.0-fisica-1.2		
+ María López-23456-fisica-2.5-programación-1.8		
+ Pedro Gómez-34567-geometria-3.5-matematicas-2.7-humanidades-3.5
+ Ana Martínez-45678-programación-4.1-sociales-1.2			
+ Carlos Rodríguez-56789-matematicas-2.6-fisica-4.5			
+ Laura Torres-67890-matematicas	-1.8-geometria-3.1-fisica-4.1
+ David Ramírez-78901-matematicas-0.6-geometria-1.4-fisica-3.6
+ Sofía Sánchez-89012-matematicas-4.7-geometria-2.9-fisica-1.7
+ Diego Vargas-90123-matematicas-4.4-programación-3.6-humanidades-2.0
+ Valeria Castro-12346-matematicas-1.6-programación-2.6-humanidades-4.7
+ Andrés Mendoza-23457-matematicas-3.4-geometria-0.2-humanidades-4.4
+ Camila Paredes-34568-fisica-2.6-sociales-2.5
+ Roberto Herrera-45679-fisica-0.1-sociales-0.4
+ Gabriela Silva-56780-matematicas-0.4-programación-4.2	
+ Miguel Fernández-67891-literatura-0.8-sociales-3.4
+ Natalia González-78902-fisica-3.5-matematicas-3.3-humanidades-3.4
+ Alejandro Ramírez-89013-literatura-0.0-sociales-0.2
+ Carolina López-90124-literatura-4.1-sociales-3.4
+ Esteban Castro-12347-literatura-0.9-humanidades-3.0
+ Lucía Martínez-23458-programación-3.6-matematicas-3.1-literatura-0.4
+ Fabián Torres-34569-programación-1.7-humanidades-0.4-literatura-2.8
+ Paula Rodríguez-45680-programación-2.0-matematicas-1.0
+ Sebastián Morales-56781-geometria-0.2-humanidades-0.6
+ Julia Sánchez-67892-geometria-2.8-humanidades-3.1	
+ Mateo Vargas-78903-geometria-3.1-matematicas-4.9-programación-4.5
+ Isabella Pérez-89014-geometria-0.8-fisica-2.3-programación-3.1
+ Andrés Gómez-90125-geometria-2.7-matematicas-2.3-programación-1.4
+ Laura Ramírez-12348-fisica-2.3-fisica-0.8
+ Juan Carlos López-23459-fisica-0.8-matematicas-4.4	
+ Ana María Gutiérrez-34570-fisica-2.0-fisica-0.3
